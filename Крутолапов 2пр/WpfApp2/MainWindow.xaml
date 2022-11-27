@@ -1,0 +1,50 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d" Height="450" Width="800" ResizeMode="CanMinimize" Title="Практическая 2" Icon="D:\Games\Lesta\Tanki\game_metadata\game.ico">
+    <Grid Margin="1,-6,-1,6">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="buttonExit" Content="выход" HorizontalAlignment="Left" Margin="458,347,0,0" VerticalAlignment="Top" Width="131" Click="Exit" Height="41"/>
+        <Button x:Name="buttonAbout" Content="О программе" HorizontalAlignment="Left" Margin="189,347,0,0" VerticalAlignment="Top" Click="About" Width="249" Height="41"/>
+        <DataGrid x:Name="dataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,41,0,281"/>
+        <Menu Margin="0,10,0,380">
+            <MenuItem Header="Файл">
+                <MenuItem Header="Выход" Click="Exit"/>
+            </MenuItem>
+            <MenuItem Header="Команды">
+                <MenuItem Header="Создать" Click="CreateFill"/>
+                <MenuItem Header="Задание" Click="ButtonTask"/>
+                <MenuItem Header="Очистить" Click="Buttonclear"/>
+                <MenuItem Header="Добавить элемент" Click="ButtonAdd"/>
+                <MenuItem Header="Удалить элемент" Click="ButtonDelete"/>
+            </MenuItem>
+            <MenuItem Header="Справка">
+                <MenuItem Header="О программе" Click="About"/>
+            </MenuItem>
+        </Menu>
+
+        <Button x:Name="buttonCreateFill" Content="Создать и&#xD;&#xA;заполнить" HorizontalAlignment="Left" Margin="32,241,0,0" VerticalAlignment="Top" Width="133" Height="38" Click="CreateFill"/>
+        <Button x:Name="buttonTask" HorizontalAlignment="Left" Margin="32,292,0,0" VerticalAlignment="Top" Content="Рассчет по заданию" Height="41" Width="133" Click="ButtonTask" />
+        <TextBox x:Name="tbColCount" HorizontalAlignment="Left" Margin="32,193,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="66" Height="36"/>
+        <Label Content="Кол-во столбцов" HorizontalAlignment="Left" Margin="27,162,0,0" VerticalAlignment="Top" Width="103"/>
+        <TextBox x:Name="tbMin" HorizontalAlignment="Left" Margin="138,193,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="62" Height="36"/>
+        <Label Content="Нижний предел гр.массива" HorizontalAlignment="Left" Margin="138,162,0,0" VerticalAlignment="Top" Width="102"/>
+        <TextBox x:Name="tbMax" HorizontalAlignment="Left" Margin="248,193,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="66" Height="36"/>
+        <Label HorizontalAlignment="Left" Margin="265,170,0,0" VerticalAlignment="Top" Width="76"/>
+        <Label Content="Вверхний предел границ массива" HorizontalAlignment="Left" Margin="246,162,0,0" VerticalAlignment="Top" Width="105"/>
+        <Button x:Name="buttonclear" Content="Очистить " HorizontalAlignment="Left" Margin="32,347,0,0" VerticalAlignment="Top" Height="41" Width="133" Click="Buttonclear"/>
+        <Button x:Name="buttonAdd" Content="Добавить элемент" HorizontalAlignment="Left" Margin="456,189,0,0" VerticalAlignment="Top" Height="40" Width="132" Click="ButtonAdd"/>
+        <TextBox x:Name="tbAdd" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="72" Height="36" Margin="0,193,0,0"/>
+        <Label HorizontalAlignment="Left" Margin="363,162,0,0" VerticalAlignment="Top" Content="Добавление элементов в массив" Width="195"/>
+        <Button x:Name="buttonDelete" Content="Удалить элемент" HorizontalAlignment="Left" Margin="457,292,0,0" VerticalAlignment="Top" Width="131" Height="41" Click="ButtonDelete"/>
+        <TextBox x:Name="tbDelete" HorizontalAlignment="Center" Margin="0,292,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="72" Height="41"/>
+        <Label Content="Удаление элементов из массива" HorizontalAlignment="Left" Margin="364,261,0,0" VerticalAlignment="Top" Width="194"/>
+        <TextBox x:Name="tbTask" HorizontalAlignment="Left" Margin="188,292,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="93" Height="41"/>
+        <Label Content="Сумма чисел &gt;5" HorizontalAlignment="Left" Margin="183,266,0,0" VerticalAlignment="Top" Width="115"/>
+    </Grid>
+</Window>

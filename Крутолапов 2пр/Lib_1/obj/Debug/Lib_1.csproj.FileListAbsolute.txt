@@ -1,0 +1,45 @@
+C:\Users\kruto\Desktop\Рпм\Крутолапов пр2\Lib_1\bin\Debug\Lib_1.dll
+C:\Users\kruto\Desktop\Рпм\Крутолапов пр2\Lib_1\bin\Debug\Lib_1.pdb
+C:\Users\kruto\Desktop\Рпм\Крутолапов пр2\Lib_1\bin\Debug\LibArray.dll
+C:\Users\kruto\Desktop\Рпм\Крутолапов пр2\Lib_1\bin\Debug\LibArray.pdb
+C:\Users\kruto\Desktop\Рпм\Крутолапов пр2\Lib_1\obj\Debug\Lib_1.csproj.AssemblyReference.cache
+C:\Users\kruto\Desktop\Рпм\Крутолапов пр2\Lib_1\obj\Debug\Lib_1.csproj.CoreCompileInputs.cache
+C:\Users\kruto\Desktop\Рпм\Крутолапов пр2\Lib_1\obj\Debug\Lib_1.csproj.CopyComplete
+C:\Users\kruto\Desktop\Рпм\Крутолапов пр2\Lib_1\obj\Debug\Lib_1.dll
+C:\Users\kruto\Desktop\Рпм\Крутолапов пр2\Lib_1\obj\Debug\Lib_1.pdb
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр2\Lib_1\bin\Debug\Lib_1.dll
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр2\Lib_1\bin\Debug\Lib_1.pdb
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр2\Lib_1\bin\Debug\LibArray.dll
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр2\Lib_1\bin\Debug\LibArray.pdb
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр2\Lib_1\obj\Debug\Lib_1.csproj.AssemblyReference.cache
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр2\Lib_1\obj\Debug\Lib_1.csproj.CoreCompileInputs.cache
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр2\Lib_1\obj\Debug\Lib_1.csproj.CopyComplete
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр2\Lib_1\obj\Debug\Lib_1.dll
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр2\Lib_1\obj\Debug\Lib_1.pdb
+C:\Users\kruto\Desktop\Крутолапов пр2\Lib_1\bin\Debug\Lib_1.dll
+C:\Users\kruto\Desktop\Крутолапов пр2\Lib_1\bin\Debug\Lib_1.pdb
+C:\Users\kruto\Desktop\Крутолапов пр2\Lib_1\bin\Debug\LibArray.dll
+C:\Users\kruto\Desktop\Крутолапов пр2\Lib_1\bin\Debug\LibArray.pdb
+C:\Users\kruto\Desktop\Крутолапов пр2\Lib_1\obj\Debug\Lib_1.csproj.AssemblyReference.cache
+C:\Users\kruto\Desktop\Крутолапов пр2\Lib_1\obj\Debug\Lib_1.csproj.CoreCompileInputs.cache
+C:\Users\kruto\Desktop\Крутолапов пр2\Lib_1\obj\Debug\Lib_1.csproj.CopyComplete
+C:\Users\kruto\Desktop\Крутолапов пр2\Lib_1\obj\Debug\Lib_1.dll
+C:\Users\kruto\Desktop\Крутолапов пр2\Lib_1\obj\Debug\Lib_1.pdb
+C:\Users\maxProGrops\Desktop\Нига ван\Lib_1\bin\Debug\Lib_1.dll
+C:\Users\maxProGrops\Desktop\Нига ван\Lib_1\bin\Debug\Lib_1.pdb
+C:\Users\maxProGrops\Desktop\Нига ван\Lib_1\bin\Debug\LibArray.dll
+C:\Users\maxProGrops\Desktop\Нига ван\Lib_1\bin\Debug\LibArray.pdb
+C:\Users\maxProGrops\Desktop\Нига ван\Lib_1\obj\Debug\Lib_1.csproj.AssemblyReference.cache
+C:\Users\maxProGrops\Desktop\Нига ван\Lib_1\obj\Debug\Lib_1.csproj.CoreCompileInputs.cache
+C:\Users\maxProGrops\Desktop\Нига ван\Lib_1\obj\Debug\Lib_1.csproj.CopyComplete
+C:\Users\maxProGrops\Desktop\Нига ван\Lib_1\obj\Debug\Lib_1.dll
+C:\Users\maxProGrops\Desktop\Нига ван\Lib_1\obj\Debug\Lib_1.pdb
+C:\Users\kruto\Desktop\Рпм\Практическая 2\Lib_1\bin\Debug\Lib_1.dll
+C:\Users\kruto\Desktop\Рпм\Практическая 2\Lib_1\bin\Debug\Lib_1.pdb
+C:\Users\kruto\Desktop\Рпм\Практическая 2\Lib_1\bin\Debug\LibArray.dll
+C:\Users\kruto\Desktop\Рпм\Практическая 2\Lib_1\bin\Debug\LibArray.pdb
+C:\Users\kruto\Desktop\Рпм\Практическая 2\Lib_1\obj\Debug\Lib_1.csproj.AssemblyReference.cache
+C:\Users\kruto\Desktop\Рпм\Практическая 2\Lib_1\obj\Debug\Lib_1.csproj.CoreCompileInputs.cache
+C:\Users\kruto\Desktop\Рпм\Практическая 2\Lib_1\obj\Debug\Lib_1.csproj.CopyComplete
+C:\Users\kruto\Desktop\Рпм\Практическая 2\Lib_1\obj\Debug\Lib_1.dll
+C:\Users\kruto\Desktop\Рпм\Практическая 2\Lib_1\obj\Debug\Lib_1.pdb
